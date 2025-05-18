@@ -93,6 +93,10 @@ header, main, footer {
   max-width: 900px;
 }
 
+header h1 {
+  font-size: 3em;
+}
+
 body {
   display: flex;
   align-items: center;
