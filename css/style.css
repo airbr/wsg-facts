@@ -89,6 +89,7 @@ body {
 }
 
 header, main, footer {
+  width: 100%;
   max-width: 900px;
 }
 
