@@ -12,7 +12,7 @@
    ========================================================================== */
 
 html {
-  color: #222;
+  color:  	#111111;
   font-size: 1em;
   line-height: 1.4;
 }
@@ -138,6 +138,11 @@ details[open] {
 details[open] summary {
   border-bottom: 1px solid #aaa;
   margin-bottom: 0.5em;
+}
+
+.banner {
+  padding: 8px;
+  background:  	#cbe0fb;
 }
 
 /* ==========================================================================
