@@ -2,6 +2,8 @@
 
 An early iteration of a resource showcasing web sustainability facts.
 
+Sustainability icons from https://github.com/codewordcreative/susty-icons
+
 
 ### [Live Deployment - initial wsg facts](https://wsg-facts.netlify.app/)
 
